@@ -1,0 +1,3 @@
+[submodule "SPAD"]
+	path = SPAD
+	url = https://github.com/constantine-vainstein/SPAD
